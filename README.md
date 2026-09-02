@@ -51,4 +51,5 @@ File Structure
 winter_slam.py    
 README.md         
 
-Mentor: Sparsh Agarwal
+
+
